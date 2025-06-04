@@ -43,7 +43,3 @@ Tehnologii folosite
 - TypeScript
 - Node.js
 - Programare orientată pe obiect (OOP)
-# my-animal-sounds
-# my-animal-sounds
-# my-animal-sounds
-# my-animal-sounds
