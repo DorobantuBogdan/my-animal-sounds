@@ -8,7 +8,7 @@ class Program
         List<Animal> animals = new List<Animal>
         {
             new Dog(),
-            new Elephant(), // înlocuit Cat cu Elephant
+            new Elephant(), 
             new Cow()
         };
 
